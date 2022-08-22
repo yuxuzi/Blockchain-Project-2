@@ -1,0 +1,4 @@
+{
+    "solidity.remappings":["@openzeppelin/=/home/yuxuzi/projects/starNotaryv2/node_modules/openzeppelin-solidity"] 
+}
+

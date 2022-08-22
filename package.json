@@ -1,0 +1,27 @@
+{
+    "name": "block-chain-nd-project5",
+    "version": "1.0.0",
+    "description": "--- ### Name and Symble - Token Name: `Abdullah` - Token Symbol: `W` - Rinkeby Account: `0x8c4135c105008fe93bA5c92ca27DFF4ca0d84F67` ### Tools Versions  - Truffle Version: `v5.0.18`  - OpenZeppelin Version: `2.1.2`",
+    "main": "truffle-config.js",
+    "directories": {
+      "test": "test"
+    },
+    "dependencies": {
+      "openzeppelin-solidity": "^2.1.2",
+      "truffle-hdwallet-provider": "^1.0.2"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Abdullah-Waqet/block-chain-nd-project5.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Abdullah-Waqet/block-chain-nd-project5/issues"
+    },
+    "homepage": "https://github.com/Abdullah-Waqet/block-chain-nd-project5#readme"
+  }
